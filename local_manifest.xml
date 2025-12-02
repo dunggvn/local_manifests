@@ -2,7 +2,7 @@
 <manifest>
 
  <!-- Device and Common Trees -->
- <project path="device/lge/sm8150-common" name="lge-qcom-dev/android_device_lge_sm8150-common.git" remote="github" revision="lineage-22.2"
+ <project path="device/lge/sm8150-common" name="lge-qcom-dev/android_device_lge_sm8150-common.git" remote="github" revision="lineage-22.2"/>
  <project path="device/lge/flashlmdd" name="lge-qcom-dev/android_device_lge_flashlmdd.git" remote="github" revision="lineage-22.2" />
  
  <!-- Proprietary Vendor -->
